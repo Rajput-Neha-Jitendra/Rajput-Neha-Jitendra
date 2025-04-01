@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neha Rajput</h1>
 <h3 align="center">MCA | Building Future in Tech</h3>
-
+<img src="https://github.com/Rajput-Neha-Jitendra/Rajput-Neha-Jitendra/blob/main/business-woman-illustration-on-transparent-background-free-png.png" alt="hii">
 - 🌱 I’m currently learning **Data Science | Machine Learning**
 
 - 📫 How to reach me **rajput.nj2003@gmail.com**
